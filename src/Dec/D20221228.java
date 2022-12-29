@@ -3,7 +3,7 @@ package Dec;
 public class D20221228 {
     public static void main(String[] args) {
         D20221228 D = new D20221228();
-        int[] answer = D.solution(9,2,1,3);
+        int[] answer = D.solution(70, 20, 5, 3);
         for (int i = 0; i < answer.length; i++) {
             System.out.println(answer[i]);
         }
