@@ -1,7 +1,5 @@
 package Jan;
 
-import java.util.HashMap;
-import java.util.Map;
 
 public class D20230110 {
     public static void main(String[] args) {
